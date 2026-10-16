@@ -38,4 +38,6 @@ coverage/
 *.userosscache
 *.sln.docwins
 
+public/frames/
+
 # NOTE: portfolio animation frames in `public/frames/` are intentionally NOT ignored.
